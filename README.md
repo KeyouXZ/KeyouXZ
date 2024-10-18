@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Discord Bot and TShock Plugin<br>👯 I’m looking to collaborate on TShock Plugin<br>🤝 I’m looking for help with C#<br>🌱 I’m currently learning C# & Python <br>💬 Ask me about JavaScript 
-
+I'm diving deep into C# and Python, building a Discord bot and a TShock plugin. Always open to collaboration and new ideas—especially if it involves TShock plugins!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/keyouzm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@keyouxu) 
